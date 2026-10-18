@@ -2,7 +2,7 @@
 
 An interactive four-page Power BI report that analyses a workforce across headcount, demographics, performance, and attrition. It helps HR teams see who works in the organisation, how employees rate their experience, and which factors are linked to people leaving.
 
-![Overview page](screenshots/01_overview.png)
+![Overview page](screenshots/01_overview.png.png)
 
 ---
 
