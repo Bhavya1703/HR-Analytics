@@ -137,8 +137,7 @@ GitHub cannot preview `.pbix` files, so use the screenshots in this README to se
 ```
 .
 ├── README.md
-├── report/
-│   └── HR_Analytics_Dashboard.pbix
+├── HR_Analytics_Dashboard.pbix
 └── screenshots/
     ├── 01_overview.png
     ├── 02_demographics.png
